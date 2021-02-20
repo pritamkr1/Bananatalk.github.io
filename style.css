@@ -1,8 +1,18 @@
-textarea{
-    width: 70%;
+#input-text{
+    width: 60%;
     height: 110px;
     overflow-y: hidden;
     display: block;
     color: rgba(0, 0, 0, 0.342);
-    padding: 15px;
+    padding: 10px;
+}
+
+#output-text{
+    width: 60%;
+    height: 110px;
+    overflow-y: hidden;
+    display: block;
+    padding: 10px;
+    border: 1px solid rgba(0, 0, 0, 0.404);
+    margin-top: 10px;
 }
