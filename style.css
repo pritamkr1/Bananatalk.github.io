@@ -77,9 +77,13 @@ nav, footer{
         display: grid;
         grid-template-columns: 1fr;
         grid-template-rows: auto auto;
+        justify-content: center;text-align: center;
      }
      .minion-img{
         width: 40vw;
         
     }
+    #input-text, #output-text{
+        width: 100%;
+        
 }
