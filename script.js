@@ -1,9 +1,3 @@
-/*var textName = "I am Pritam Kumar";
-var testUrl = "https://lessonfourapi.tanaypratap.repl.co/translate/yoda.json?textName=Pritam Kumar";
-fetch(testUrl)
-.then (response => response.json())
-.then (json => console.log(json));*/
-
 var inputText = document.querySelector('#input-text');
 var outputText = document.querySelector('#output-text');
 var eventBtn = document.querySelector('.btn-primary');
